@@ -1,0 +1,11 @@
+C:\Users\ESMA\source\repos\newtry\bin\Debug\newtry.exe.config
+C:\Users\ESMA\source\repos\newtry\bin\Debug\newtry.exe
+C:\Users\ESMA\source\repos\newtry\bin\Debug\newtry.pdb
+C:\Users\ESMA\source\repos\newtry\obj\Debug\newtry.csproj.AssemblyReference.cache
+C:\Users\ESMA\source\repos\newtry\obj\Debug\newtry.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESMA\source\repos\newtry\obj\Debug\newtry.Form1.resources
+C:\Users\ESMA\source\repos\newtry\obj\Debug\newtry.Properties.Resources.resources
+C:\Users\ESMA\source\repos\newtry\obj\Debug\newtry.csproj.GenerateResource.cache
+C:\Users\ESMA\source\repos\newtry\obj\Debug\newtry.csproj.CoreCompileInputs.cache
+C:\Users\ESMA\source\repos\newtry\obj\Debug\newtry.exe
+C:\Users\ESMA\source\repos\newtry\obj\Debug\newtry.pdb
